@@ -218,7 +218,7 @@ const links = ref([
   },
   {
     title: 'YouTube Channel',
-    url: 'https://youtube.com/yourchannel',
+    url: 'https://www.bing.com/ck/a?!&&p=74c90acfc2a150c7ab6ae056a20b7f264ab7589eed75c0eaeb8151cc69c333f1JmltdHM9MTc1MzMxNTIwMA&ptn=3&ver=2&hsh=4&fclid=0f8fdef9-f974-6d51-03d5-cb38f8666ca1&psq=facebook+9jarightmp3&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2l4NmROV2MxOHZCdXB6aDhoQlR2NUE&ntb=1',
     description: 'Watch our tutorials and videos',
     icon: 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png'
   },
@@ -229,8 +229,14 @@ const links = ref([
     icon: 'https://cdn-icons-png.flaticon.com/512/2111/2111370.png'
   },
   {
-    title: 'Book a Consultation',
-    url: 'https://calendly.com/yourbrand',
+    title: 'Facebok',
+    url: 'Facebook.com/9jarightmp3',
+    description: 'Schedule a 1:1 call with us',
+    icon: 'https://cdn-icons-png.flaticon.com/512/1570/1570906.png'
+  }, 
+   {
+    title: 'Facebok',
+    url: 'Facebook',
     description: 'Schedule a 1:1 call with us',
     icon: 'https://cdn-icons-png.flaticon.com/512/1570/1570906.png'
   }
@@ -240,22 +246,22 @@ const links = ref([
 const socials = markRaw([
   {
     name: 'Instagram',
-    url: 'https://instagram.com/yourbrand',
+    url: 'https://instagram.com/9jarightmp3',
     icon: InstagramIcon
   },
   {
     name: 'Twitter',
-    url: 'https://twitter.com/yourbrand',
+    url: 'https://twitter.com/starchcrypto',
     icon: TwitterIcon
   },
   {
     name: 'TikTok',
-    url: 'https://tiktok.com/@yourbrand',
+    url: 'https://tiktok.com/@9jarightmp3',
     icon: TikTokIcon
   },
   {
     name: 'YouTube',
-    url: 'https://youtube.com/yourbrand',
+    url: 'https://youtube.com/9jaright-mp3Vevoe',
     icon: YouTubeIcon
   }
 ])
